@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkelastic=globalThis.webpackChunkelastic||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/book-elastic/blog","blogTitle":"Blog","authorsListPath":"/book-elastic/blog/authors"}')}}]);
