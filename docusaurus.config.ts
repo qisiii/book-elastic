@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://onebook.qisihub.cn',
+  url: 'https://qisiii.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/elastic/',
+  baseUrl: '/book-elastic/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'qisiii', // Usually your GitHub org/user name.
-  projectName: 'elastic_doc_translate', // Usually your repo name.
+  projectName: 'book-elastic', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
