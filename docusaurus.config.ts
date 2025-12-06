@@ -18,7 +18,7 @@ const config: Config = {
   url: 'https://onebook.qisihub.cn',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/elastic/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -78,7 +78,7 @@ const config: Config = {
       title: 'Elastic中文文档',
       logo: {
         alt: 'Elastic中文文档',
-        src: 'img/logo.svg',
+        src: 'img/favicon.ico',
       },
       items: [
         {
